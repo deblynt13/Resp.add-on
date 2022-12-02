@@ -1,3 +1,15 @@
+
+
 .header {
-    background-image: url ("/..images/floridabeach.jpg");
+    background-image: linear-gradient(rgba (0,0,0,0.4), rgba(0,0,0,0.4), url ("florida.jpg"));
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+ 
+    background-image: linear-gradient(rgba (0,0,0,0.4), rgba(0,0,0,0.4), url ("/..images/floridabeach.jpg"));
+    background-repeat: no-repeat;
+    background-size: cover;
