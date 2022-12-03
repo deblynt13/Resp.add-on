@@ -17,10 +17,10 @@ h1 {
     text-align: center;
 }
  
+header
     background-image: linear-gradient(rgba (0,0,0,0.4), rgba(0,0,0,0.4), url ("/..images/floridabeach.jpg"));
     background-repeat: no-repeat;
-    background-size: cover;
-h3 {
+    background-size: cover;h3 {
     text-align: center;
 }
 
