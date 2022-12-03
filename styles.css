@@ -13,6 +13,7 @@
 h1 {
     font-size: 40px;
     font-weight:700;
+    font-family: poppins;
 }
  
     background-image: linear-gradient(rgba (0,0,0,0.4), rgba(0,0,0,0.4), url ("/..images/floridabeach.jpg"));
