@@ -56,6 +56,7 @@ footer {
     background-image: linear-gradient (rgba(0,0,0,0.8), rgba (0,0,0,0.8)), url('../images/beachscene.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    color:darkgrey;
 }
 .section {
     max-width: 1200px;
