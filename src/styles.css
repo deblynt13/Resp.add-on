@@ -50,4 +50,9 @@ header h2 {
     margin-top: 10px;
 
 }
+@media (max-width: 960px) {
+    header {
+        padding: 60px 0;
+    }
+}
 
