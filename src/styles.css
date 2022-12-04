@@ -72,6 +72,10 @@ footer {
 footer li {
     list-style: none;
 }
+footer p {
+    line-height: 1.5;
+    font-size: 10px;
+}
 @media (max-width: 960px) {
     header {
         padding: 60px 0;
