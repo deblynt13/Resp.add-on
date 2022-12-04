@@ -7,7 +7,8 @@ h1 {
     font-size: 60px;
     font-weight:700;
     font-family: poppins;
-    text-align: center;
+    line-height: 1.5;
+
 }
  
 header {
@@ -28,6 +29,7 @@ header {
 h3 {
     text-align: center;
     font-family: poppins;
+
 }
 
 h2 { 
@@ -37,6 +39,7 @@ h2 {
 }
 header a {
     font-family: poppins;
+    text-decoration: none;
 
 }
 
