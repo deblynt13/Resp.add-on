@@ -61,6 +61,10 @@ footer {
     max-width: 1200px;
     margin: 0 auto;
 }
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 @media (max-width: 960px) {
     header {
         padding: 60px 0;
