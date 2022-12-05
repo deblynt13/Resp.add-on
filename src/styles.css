@@ -72,9 +72,11 @@ footer {
 }
 footer li {
     list-style: none;
+    font-size: 25px;
 
 footer p {
     font-weight: 700;
+    font-size: 25px;
 }    
 }
 
