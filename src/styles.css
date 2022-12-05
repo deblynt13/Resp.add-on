@@ -57,7 +57,7 @@ footer {
     background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url("../images/beachsand.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    color:brown;
+    color:grey;
     padding: 100px 0;
     
 }
