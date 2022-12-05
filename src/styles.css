@@ -72,6 +72,10 @@ footer {
 }
 footer li {
     list-style: none;
+
+footer p {
+    font-weight: 500px;
+}    
 }
 
 }
