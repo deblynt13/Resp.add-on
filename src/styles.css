@@ -84,7 +84,10 @@ main img {
 }
 main {
     text-align: center;
+    font-family: poppins;
+    
 }
+
 
 
 @media (max-width: 960px) {
