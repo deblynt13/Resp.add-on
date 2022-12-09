@@ -70,6 +70,9 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
 }
+.grid grid-2-columns {
+     grid-template-columns:  1fr 1fr;
+}
 footer li {
     list-style: none;
     font-size: 25px;
