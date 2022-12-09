@@ -87,10 +87,12 @@ main img {
     margin-top: 25px;
 }
 main {
-    text-align: center;
     font-family: poppins;
     background-color: white;
     
+}
+main h2 h3 {
+    text-align: center;
 }
 
 
