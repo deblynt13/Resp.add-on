@@ -95,8 +95,12 @@ main {
     background-color: white;
     
 }
-.secondary {
+section.secondary {
     background-color: lightgrey;
+}
+
+.grid-3-columns {
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 
