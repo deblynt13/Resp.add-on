@@ -106,6 +106,9 @@ section.secondary {
     max-width: 100%;
     display: block;
   }
+  .card-body {
+    text-align: center;
+  }
   
 
 
