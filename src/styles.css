@@ -109,6 +109,10 @@ section.secondary {
   .card-body {
     text-align: center;
   }
+
+  .Card {
+    background: white;
+  }
   
 
 
