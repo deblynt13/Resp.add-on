@@ -98,7 +98,7 @@ section.secondary {
     background-color: lightgrey;
 }
 
- .grid .grid-3-columns {
+ .grid-3-columns {
     grid-template-columns: 1fr 1fr 1fr;
 }
 .img-responsive {
