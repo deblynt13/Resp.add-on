@@ -102,9 +102,10 @@ section.secondary {
     grid-template-columns: 1fr 1fr 1fr;
 }
 .img-responsive {
-    max-width: 100%;
+    width: 100%;
     display: block;
   }
+
   .card-body {
     text-align: center;
   }
