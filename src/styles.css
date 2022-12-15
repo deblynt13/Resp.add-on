@@ -100,7 +100,7 @@ section.secondary {
 
 .grid-3-columns {
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap:5px;
+    grid-gap:25px;
 }
 .img-responsive {
     width: 100%;
