@@ -73,7 +73,7 @@ footer {
      grid-template-columns:  1fr 1fr;
      
 }
-div .grid-2-columns {
+.section .grid-2-columns {
     text-align: center;
 }
 
