@@ -71,9 +71,9 @@ footer {
 }
 .grid-2-columns {
      grid-template-columns:  1fr 1fr;
-     padding-top: 20px;
      
 }
+
 section  {
     padding: 100px;
     margin: 10px;
