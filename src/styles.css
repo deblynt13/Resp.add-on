@@ -71,6 +71,7 @@ footer {
 }
 .grid-2-columns {
      grid-template-columns:  1fr 1fr;
+     padding-top: 20px;
      
 }
 section  {
@@ -78,9 +79,10 @@ section  {
     margin: 10px;
 }
 
-.grid-2-columns h2 h3 p{
+.grid-2-columns h2 h3 {
     text-align: center;
 }
+
 
 footer li {
     list-style: none;
