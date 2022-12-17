@@ -126,6 +126,10 @@ section.secondary {
   a {
     color:turquoise;
   }
+  .embed {
+    aspect-ratio: 16/9;
+    width: 100%;
+  }
   
 
 
