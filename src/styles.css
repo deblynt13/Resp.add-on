@@ -134,6 +134,11 @@ section.secondary {
     aspect-ratio: 16/9;
     width: 100%;
   }
+
+  .button {
+    display: block;
+    color: black;
+  }
   
 
 
