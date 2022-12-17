@@ -122,6 +122,9 @@ section.secondary {
     background: white;
     padding: 10px;
   }
+  .card-header img {
+    display: none;
+  }
 
   a {
     color:turquoise;
