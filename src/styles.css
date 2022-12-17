@@ -65,6 +65,9 @@ footer {
     max-width: 1200px;
     margin: 0 auto;
 }
+section {
+    padding: 30px;
+}
 .grid {
     display: grid;
     text-align: center;
@@ -116,6 +119,7 @@ section.secondary {
 
   .card-body {
     text-align: center;
+    padding: 30px;
   }
 
   .card {
@@ -124,6 +128,9 @@ section.secondary {
   }
   .card-header .grid {
     grid-gap: 0;
+  }
+  .card-footer {
+    padding: 0 30px 30px;
   }
   
 
