@@ -147,7 +147,7 @@ section.secondary {
     color: white;
     background-color: black;
   }
-  .instagram-imbeds div {
+  div.instagram-imbeds  {
     grid-template-columns: 1fr 1fr 1fr;
   }
   
