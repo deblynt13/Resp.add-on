@@ -115,6 +115,8 @@ section.secondary {
 .img-responsive {
     width: 100%;
     display: block;
+    height: 100%;
+    object-fit: cover;
   }
 
   .card-body {
