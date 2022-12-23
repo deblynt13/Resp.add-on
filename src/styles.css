@@ -131,6 +131,9 @@ section.secondary {
   .card-header .grid {
     grid-gap: 0;
   }
+  .card-header img {
+    display: none;
+  } 
   .card-footer {
     padding: 0 30px 30px;
   }
