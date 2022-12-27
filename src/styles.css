@@ -155,10 +155,9 @@ section.secondary {
     header {
         padding: 60px 0;
     }
- @media (max-width:v780px) {
+ @media (max-width:780px) {
     .grid-3-columns {
         grid-template-columns: 1fr;
     }
    
 }
-
